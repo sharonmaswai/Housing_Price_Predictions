@@ -1,4 +1,4 @@
-# Housing Price Predicttion Model
+# Housing Price Prediction Model
 ### By Sharon Maswai
 
 ## Description
